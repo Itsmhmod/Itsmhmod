@@ -22,13 +22,14 @@
 </p>
 
 ## 🚀 About Me
-- 🎯 **Cyber Security Student**  
-- 🖥 **Backend Developer** (PHP - Laravel)  
-- 🔥 **Offensive Cybersecurity Specialist**  
-- 🔍 **Penetration Testing & Network Security**  
-- 🛡️ **Bug Hunter & Red Teaming**  
-- ⚔️ **Cyber Security Engineer**  
-- 🕵️ **Security Researcher**  
+- 🎓 **Cyber Security Engineering Student**
+- 🌐 **Network Security Enthusiast**
+- 🔐 **Ethical Hacker & Penetration Tester**
+- 🛡️ **Cyber Security Engineer**
+- ⚔️ **Red Teaming & Offensive Security Enthusiast**
+- 🐞 **Bug Hunter & Security Researcher**
+- 🖥️ **Backend Developer (PHP - Laravel)**
+- 🤖 **AI & Security Automation Enthusiast**
 
 ## 🌍 Connect with me
 <p align="left">
